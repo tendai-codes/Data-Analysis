@@ -1,4 +1,6 @@
-# Data Analysis Projects
+# Data Analysis Project Repository
+
+This repository showcases a series of projects exploring tackling various data to discover useful insights and express this through visualizations 
 
 ### Projects Overview
 
@@ -33,4 +35,4 @@
 
 - **Tools Used:**  
   - **R:** ggplot2  
-  - **Python:** Pandas, Seaborn, Pyplot
+  - **Python:** Pandas, Seaborn, Pyplot, Matplotlib, NumPy
