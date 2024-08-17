@@ -5,7 +5,7 @@ This repository showcases a series of projects exploring tackling various data t
 ### Projects Overview
 
 1. **Financial Data Analysis and Performance Optimization (R):**  
-   This project involved extensive data cleaning, preprocessing, and statistical analysis to uncover root causes behind performance fluctuations. Through data visualization and KPI analysis, the findings were presented to stakeholders to aid in strategic decision-making and optimize processes.
+  Analyzed the financial statements of organization 'X' to assess its overall financial health. This involved calculating key financial metrics such as profit, profit margin, and tax, as well as identifying the best and worst performing months based on profit after tax. The analysis provided valuable insights into the organization's financial performance and helped highlight areas for potential improvement.
 
 2. **Box Office Data Analysis - Highest-Grossing Movies in the US (R):**  
    Analyzed publicly available box office data to identify key trends and patterns among top-grossing movies. Insights revealed the most profitable genres, top-performing studios, and the effect of release timing on revenue performance.
@@ -19,8 +19,6 @@ This repository showcases a series of projects exploring tackling various data t
 5. **Stocks Analysis & Visualization (Python):**  
    Analyzed stock market datasets to understand daily returns and uncover insightful patterns. The analysis involved creating data visualizations that highlighted trends in stock performance over time.
 
-6. **Financial Statement Analysis:**  
-Analyzed the financial statements of organization 'X' to assess its overall financial health. This involved calculating key financial metrics such as profit, profit margin, and tax, as well as identifying the best and worst performing months based on profit after tax. The analysis provided valuable insights into the organization's financial performance and helped highlight areas for potential improvement.
 
 ### Key Skills and Tools
 
