@@ -13,10 +13,13 @@ This repository showcases a series of projects exploring tackling various data t
 3.  **Asset Allocation & Statistical Data Analysis (Python):**    
    Developed a custom function to calculate portfolio returns and evaluate performance using the Sharpe ratio. By performing statistical analysis on historical data, this project aimed to optimize asset allocation strategies, balancing risk and return to maximize overall portfolio performance.
 
-4. **Global Population Trends - World Bank Data Exploration (Python):**  
+4. **Capital Asset Pricing Model (Python):**
+   Developed a Capital Asset Pricing Model (CAPM) to determine the expected return on an asset, factoring in the risk-free rate, the asset's beta (systematic risk), and the expected market return using Python. The model provided actionable insights by quantifying the risk-return tradeoff for individual assets within the portfolio, assisting in risk management and investment strategy development.
+
+5. **Global Population Trends - World Bank Data Exploration (Python):**  
    Analyzed global datasets on income, fertility rates, and life expectancy. The analysis revealed significant correlations, such as the inverse relationship between income and fertility, and the positive relationship between income and life expectancy, providing insights for policy decisions and resource allocation.
    
-5. **Box Office Data Analysis - Highest-Grossing Movies in the US (R):**  
+6. **Box Office Data Analysis - Highest-Grossing Movies in the US (R):**  
    Analyzed publicly available box office data to identify key trends and patterns among top-grossing movies. Insights revealed the most profitable genres, top-performing studios, and the effect of release timing on revenue performance.
 
 
