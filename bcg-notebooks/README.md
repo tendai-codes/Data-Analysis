@@ -20,10 +20,12 @@ This project analysed customer electricity and gas usage data to explore pattern
 
 ## Key Findings
 
-- Exploratory analysis showed variation across customer features in the churn dataset
-- Visual comparisons highlighted observable differences between customer groups
-- Feature engineering transformed categorical variables into numerical representations for modelling
-- The final processed dataset was prepared for downstream churn prediction tasks
+## Key Findings
+
+- Churn customers showed observable differences in electricity pricing variables compared with non-churn customers across visual distribution comparisons
+- Contract-related attributes and price sensitivity indicators displayed variation between churn and retained customer groups in categorical segmentation plots
+- Missing values and non-numeric categorical variables required preprocessing before use in modelling workflows
+- Feature engineering produced encoded categorical variables and derived pricing features that transformed the dataset into a structured numerical format suitable for churn prediction modelling
 
 
 ## Notebooks
