@@ -1,36 +1,29 @@
-# Customer Churn Exploratory Data Analysis(BCG Virtual Internship)
+# Exploratory Data Analysis and Feature Engineering for Customer Churn Dataset (BCG Virtual Internship)
 
-## Problem 
-This project analysed customer electricity usage data to explore patterns associated with customer churn within the next three months.
+## Problem
 
-The task focused on identifying observable differences between churned and retained customers using exploratory data analysis.
+This project analysed customer electricity and gas usage data to explore patterns associated with customer churn and build churn model to predict at risk customers.
 
 ## Objective
 
-The analysis aimed to:
+- Explore dataset structure and variable behaviour using descriptive statistics and visualisation
+- Identify patterns across categorical and numerical variables relevant to churn analysis
+- Prepare features through encoding and transformation for downstream modelling
+- 
 
-- Explore the structure of the dataset
-- Examine churn distribution across customers
-- Investigate whether sales channel influenced churn
-- Inspect consumption-related variables
-- Identify variables that did not appear to influence churn behaviour
+## Approach
+
+- Inspected dataset schema, variable types, and summary statistics
+- Generated visualisations to examine distributions and categorical segment behaviour
+- Assessed relationships between variables using exploratory plots and comparisons
+- Applied categorical encoding and derived feature construction to prepare modelling inputs
 
 ## Key Findings
 
-The exploratory analysis showed that:
-
-- Approximately 9.7% of customers churned, while 90.3% remained
-- Churn distribution differed across sales channels
-- Gas subscription status did not show a meaningful relationship with churn
-- Sales channel appeared to be an important variable for further investigation
-
-## Key Learnings
-
-- Sales channel appeared to be an important variable in understanding churn
-- Most customers did not churn, with churn representing a relatively small portion of the dataset
-- Removing selected columns simplified the dataset for exploration
-- Visual analysis helped compare churn patterns across customer groups
-- No significant difference was noted when comparing churning in customers using electricity versus gas
+- Exploratory analysis showed variation across customer features in the churn dataset
+- Visual comparisons highlighted observable differences between customer groups
+- Feature engineering transformed categorical variables into numerical representations for modelling
+- The final processed dataset was prepared for downstream churn prediction tasks
 
 
 ## Notebooks
